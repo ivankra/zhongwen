@@ -1,0 +1,3 @@
+[submodule "asg"]
+	path = asg
+	url = https://github.com/ivankra/zhongwen-asg.git
