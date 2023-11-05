@@ -1,3 +1,6 @@
 [submodule "asg"]
 	path = asg
 	url = https://github.com/ivankra/zhongwen-asg.git
+[submodule "dangdai"]
+	path = dangdai
+	url = https://github.com/ivankra/dangdai.git
