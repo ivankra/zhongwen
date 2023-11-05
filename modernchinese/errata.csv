@@ -1,0 +1,78 @@
+ID,Column,Original,Corrected
+B1L00-1-06,Meaning,(to be),to be
+B1L01-1-08,Pinyin,kěài,kě'ài
+B1L01-3-16,Pinyin,wǎnān,wǎn'ān
+B1L02-1-01,Meaning,How many,how many
+B1L02-1-15,Pinyin,Xīngqí tiān,Xīngqítiān
+B1L02-1-19,POS,V,N
+B1L02-1-20,POS,V,N
+B1L02-1-23,POS,V,N
+B1L02-1-24,POS,V,N
+B1L02-2-12,Pinyin,Méi wèntí,méi wèntí
+B1L02-2-13,Pinyin,Míngtiān jiàn,míngtiān jiàn
+B1L02-2-14,Pinyin,Zàijiàn,zàijiàn
+B1L04-1-13,Pinyin,Jiā,jiā
+B1L04-2-04,POS,M,N
+B1L04-2-05,Pinyin,píng zi,píngzi
+B1L08-2-21,Meaning,It' ok.,It's ok.
+B1L09-2-07,Pinyin,Lǐbài,lǐbài
+B1L11-1-01,Pinyin,rènshi,rènshì
+B1L12-2-12,POS,N,M
+B1L12-3-06,Pinyin,nǚér,nǚ'ér
+B1L13-3-05,POS,N,V
+B1L14-1-21,POS,Name,Ph
+B1L16-3-05,POS,N,M
+B1L16-3-07,POS,N,M
+B1L16-3-13,Pinyin,Xiǎolóngbāo,xiǎolóngbāo
+B2L01-2-04,Pinyin,shoú,shóu
+B2L01-2-17,Pinyin,Jiǎo,jiǎo
+B2L03-1-33,Pinyin,yìhuǐér,yìhuǐr
+B2L05-2-23,Pinyin,zhōngqiū jié,Zhōngqiū jié
+B2L08-1-24,Pinyin,xǐài,xǐ'ài
+B2L09-1-03,Pinyin,Fān,fān
+B2L09-2-04,Pinyin,Hànzì,hànzì
+B2L11-1-25,Pinyin,liànài,liàn'ài
+B2L11-1-28,Pinyin,tán liànài,tán liàn'ài
+B3L02-1-08,POS,V,N
+B3L04-2-02,Pinyin,qīnài,qīn'ài
+B3L04-2-28,Pinyin,píngān,píng'ān
+B3L05-2-26,Pinyin,lìlìàng,lìliàng
+B3L06-1-03,Pinyin,Huándǎo lǔxíng,huándǎo lǚxíng
+B3L06-1-14,Pinyin,chǎngshuǒ,chǎngsuǒ
+B3L06-1-25,Pinyin,zhàngài,zhàng'ài
+B3L07-1-02,Pinyin,lǔxíng,lǚxíng
+B3L07-1-06,Pinyin,rijì,rìjì
+B3L07-2-12,Pinyin,quèrén,quèrèn
+B3L08-2-05,Pinyin,jiānqiáng,bòchū
+B3L09-1-06,Pinyin,fǎnér,fǎn'ér
+B3L09-2-17,Meaning,practical,"to be short of, to lack"
+B3L09-2-17,Pinyin,shíjì,quēfá
+B3L09-2-18,Pinyin,shíjì,xīnshēng
+B3L09-2-25,POS,N,V
+B3L09-2-26,Pinyin,dáàn,dá'àn
+B3L10-1-01,Pinyin,Jiànkāngjiǎnchá(jiànjiǎn),jiànkāngjiǎnchá/jiànjiǎn
+B3L11-1-14,Pinyin,jìngyíbù,jìnyíbù
+B3L12-2-05,Pinyin,jǐngguǎn,jǐnguǎn
+B3L13-1-08,Pinyin,dúzhě,zìdòng
+B3L13-1-18,Pinyin,diànzǐ xìngxiāng,diànzǐ xìnxiāng
+B3L13-1-19,Pinyin,xìngxiāng,xìnxiāng
+B3L14-1-03,Pinyin,qínshǒu,qīnshǒu
+B3L14-1-20,Pinyin,Yínghé,Yínhé
+B3L14-1-38,Pinyin,Niúliáng,Niúláng
+B3L14-2-04,Pinyin,ànzhòu,ànzhào
+B3L15-1-16,Pinyin,yǐlái,lǎojiā
+B3L15-1-31,Pinyin,yìyáng,xìyáng
+B3L15-2-15,Pinyin,jiāoào,jiāo'ào
+B3L15-2-27,Pinyin,zǒngér yánzhī,zǒng'ér yánzhī
+B3L16-1-16,Pinyin,jìngxíng,jìnxíng
+B4L04-1-36,Pinyin,zhōngshì,Zhōngshì
+B4L05-1-27,Pinyin,āngzhāng,āngzāng
+B4L06-2-06,Pinyin,jīngjù,Jīngjù
+B4L07-2-18,Pinyin,rèài,rè'ài
+B4L08-1-39,POS,N,V
+B4L09-2-09,Pinyin,yīngér,yīng'ér
+B4L13-1-25,Pinyin,bùān,bù'ān
+B4L13-2-27,Pinyin,gēnbě,gēnběn
+B4L14-1-06,Pinyin,huáqiáo,Huáqiáo
+B4L14-2-12,POS,M,N/M
+B4L16-1-39,Pinyin,liánhéguó,Liánhéguó

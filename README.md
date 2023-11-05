@@ -2,6 +2,7 @@ Various resources for Mandarin learning.
 
 - `cedict`: CC-CEDICT dictionary and its parsed versions, in .csv format.
 - `docker`: docker/podman containers to run Anki (via x11docker), Jupyter, etc.
+- `modernchinese`: flashcards for vocabulary from Modern Chinese taiwanese textbook series.
 - `notebooks`: jupyter notebooks for small projects.
 - `tbcl`: TBCL vocabulary wordlist, characters and grammar points in .csv format.
 - `tocfl`: TOCFL and CCCC vocabulary wordlists in .csv format.

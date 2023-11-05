@@ -1,0 +1,4 @@
+*.apkg
+.ipynb_checkpoints
+downloads
+data
