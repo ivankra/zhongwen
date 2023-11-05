@@ -6,6 +6,7 @@ Various resources for Mandarin learning.
 - `docker`: docker/podman containers to run Anki (via x11docker), Jupyter, etc.
 - `modernchinese`: vocabulary from *Modern Chinese (時代華語)* taiwanese textbooks.
 - `notebooks`: jupyter notebooks for small projects.
+- `pavc`: vocabulary from *Practical Audio-Visual Chinese (實用視聽華語)* taiwanese textbooks (old NTNU textbook).
 - `tbcl`: TBCL wordlists, characters and grammar points in .csv format.
 - `tocfl`: TOCFL and CCCC wordlists in .csv format.
 - `unihan`: Unihan database in .csv format, main reference on Unicode codepoints and their properties.
