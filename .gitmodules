@@ -4,3 +4,6 @@
 [submodule "dangdai"]
 	path = dangdai
 	url = https://github.com/ivankra/dangdai.git
+[submodule "hsk30"]
+	path = hsk30
+	url = https://github.com/ivankra/hsk30.git
